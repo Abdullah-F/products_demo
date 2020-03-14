@@ -1,0 +1,6 @@
+[submodule "products_front_end"]
+	path = products_front_end
+	url = https://github.com/Abdullah-F/products_front_end
+[submodule "products_backend"]
+	path = products_backend
+	url = https://github.com/Abdullah-F/products_backend
