@@ -8,7 +8,7 @@ to clone the repo run this command : `git clone --recursive git@github.com:Abdul
 2- to run the backend run the following commands:
 ---
  first: go to the backend directory inside the repo : `cd products_demo/products_backend` <br>
- second: run `docker-compose up -d`<br>
+ second: run `docker-compose up -d` , this could take some time for the first time <br>
  the backend will be now running on <a href='http://localhost:3000/'>localhost:3000</a><br>
  
 3- now run the front end as follows:
@@ -20,5 +20,5 @@ to clone the repo run this command : `git clone --recursive git@github.com:Abdul
  Runnig the tests:
  ===
  
- 1-to run the backend tests run: `docker exec -it products_backend_app_1 bundle exec rspec`
- 2- to run the front end tests run: `npm test` or `npm test a`
+ 1-to run the backend tests run: `docker exec -it products_backend_app_1 bundle exec rspec`<br>
+ 2- to run the front end tests, from the project directory run: `npm test` or `npm test a`
