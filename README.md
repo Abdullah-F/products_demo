@@ -3,7 +3,7 @@ To run this app please follow the following steps :
 1 - clone the repo : 
 ---
 
-to clone the repo run this command : `git clone --recursive git@github.com:Abdullah-F/products_demo.git`
+to clone the repo run this command : `git clone --recursive git@github.com:Abdullah-F/products_demo.git`<br>
 
 2- to run the backend run the following commands:
 ---
@@ -13,9 +13,9 @@ to clone the repo run this command : `git clone --recursive git@github.com:Abdul
  
 3- now run the front end as follows:
 ---
- first: go to the front end directory : `cd products_demo/products_front_end`
- second: run `npm install && npm start`
- the project will be now running on <a href='http://localhost:3001/'> localhost:3001 </a>
+ first: go to the front end directory : `cd products_demo/products_front_end`<br>
+ second: run `npm install && npm start`<br>
+ the project will be now running on <a href='http://localhost:3001/'> localhost:3001 </a><br>
  
  Runnig the tests:
  ===
