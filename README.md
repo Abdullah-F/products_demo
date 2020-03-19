@@ -22,3 +22,8 @@ to clone the repo run this command : `git clone --recursive git@github.com:Abdul
  
  1-to run the backend tests run: `docker exec -it products_backend_app_1 bundle exec rspec`<br>
  2- to run the front end tests, from the project directory run: `docker exec -it products_front_end_frontend_1 npm test` or `docker exec -it products_front_end_frontend_1 npm test a`
+
+TODO
+-
+
+1- use `useReducer` instead of `useState`
