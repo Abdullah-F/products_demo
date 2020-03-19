@@ -27,3 +27,4 @@ TODO
 -
 
 1- use `useReducer` instead of `useState`
+2- use `useContext` for better data sharing between components
